@@ -3,3 +3,5 @@
 /train.py
 /requirements.txt
 /pytest.ini
+/geckodriver.log
+/.gitignore
